@@ -117,7 +117,7 @@ Every one of them can be switched on or off in **Brasa Settings**.
 
 Brasa Code is made by [SifG22](https://github.com/SifG22). It is free to use; its source code is not public.
 
-Brasa Code is built on [Code - OSS](https://github.com/microsoft/vscode) (MIT License). The licenses and notices of Code - OSS and every third-party component are included with the app.
+Brasa Code includes open source components. Their licenses and notices are included with the app.
 
 Brasa Code is an independent project and is not affiliated with or endorsed by Microsoft, Anysphere or Cognition. "Visual Studio Code" and "VS Code" are trademarks of Microsoft. "Cursor" is a trademark of Anysphere. "Devin" and "Windsurf" are trademarks of Cognition.
 
