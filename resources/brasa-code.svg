@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2B1D17"/>
+      <stop offset="1" stop-color="#110B09"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0.3" y1="1" x2="0.7" y2="0">
+      <stop offset="0" stop-color="#FF3D2E"/>
+      <stop offset="0.55" stop-color="#FF7A2F"/>
+      <stop offset="1" stop-color="#FFC75A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.72" r="0.5">
+      <stop offset="0" stop-color="#FF6A2F" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FF6A2F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="60" fill="url(#tile)"/>
+  <rect x="8.5" y="8.5" width="239" height="239" rx="59.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <ellipse cx="128" cy="168" rx="96" ry="72" fill="url(#glow)"/>
+  <path d="M132 34C140 72 192 96 192 154C192 192 164 220 128 220C92 220 64 192 64 154C64 124 80 104 98 90C98 112 106 126 120 132C112 98 118 62 132 34Z" fill="url(#flame)"/>
+  <path d="M108 140L136 164L108 188" fill="none" stroke="#1A100C" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
