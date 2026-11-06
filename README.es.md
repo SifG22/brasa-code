@@ -111,7 +111,7 @@ La primera vez que abres Brasa Code, una configuración corta te pregunta qué q
 Pulsa el botón ▶ de arriba a la derecha, o <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>. Brasa compila si hace falta y ejecuta el programa en la terminal, donde puedes escribirle datos. Al terminar ves el código de salida y cuánto tardó.
 
 - **Lenguajes:** C, C++, Python, JavaScript, TypeScript, Java, Go, Rust, C#, PHP, Ruby, Lua, Perl, R, Dart, PowerShell, Batch y Shell.
-- **Programas de varios archivos:** en C y C++ se compilan juntos los archivos de la misma carpeta.
+- **Programas de varios archivos:** en C y C++ se compilan juntos los archivos de la misma carpeta, y solo se vuelve a compilar lo que ha cambiado.
 - **¿Falta el compilador?** Brasa lo detecta y te ofrece instalarlo gratis en un clic.
 - **Tú eliges la ventana:** en la terminal integrada o en su propia ventana de consola (Ajustes de Brasa).
 
@@ -129,7 +129,7 @@ Todo lo importante en un solo sitio, sin sección de cuenta y sin nada que compr
 
 ### Bonito de día y de noche
 
-Dos temas ajustados a mano con una paleta cálida de brasa y sus propios colores de sintaxis, más los iconos de archivo Material. Los diálogos y las notificaciones también siguen tu tema.
+Nueve temas de Brasa (Oscuro, Claro, Ceniza, Medianoche, Carbón, Bosque, Ciruela, Arena y Niebla) con sus propios colores de sintaxis, más los iconos de archivo Material. Los diálogos y las notificaciones también siguen tu tema.
 
 <table>
   <tr>

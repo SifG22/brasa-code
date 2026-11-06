@@ -111,7 +111,7 @@ The first time you open Brasa Code, a short setup asks what you want to do, your
 Press the ▶ button at the top right, or <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>. Brasa compiles when needed and runs the program in the terminal, where you can type input into it. When it ends you see the exit code and how long it took.
 
 - **Languages:** C, C++, Python, JavaScript, TypeScript, Java, Go, Rust, C#, PHP, Ruby, Lua, Perl, R, Dart, PowerShell, Batch and Shell.
-- **Multi-file programs:** in C and C++ the files in the same folder are compiled together.
+- **Multi-file programs:** in C and C++ the files in the same folder are compiled together, and only what changed is compiled again.
 - **Missing compiler?** Brasa notices and offers to install it for free in one click.
 - **Your choice of window:** run in the built-in terminal or in a console window of its own (Brasa Settings).
 
@@ -129,7 +129,7 @@ Everything that matters in one place, with no account section and nothing to buy
 
 ### Looks great, day and night
 
-Two hand-tuned themes with a warm ember palette and their own syntax colors, plus Material file icons. Dialogs and notifications follow your theme too.
+Nine Brasa themes (Dark, Light, Ash, Midnight, Coal, Forest, Plum, Sand and Mist) with their own syntax colors, plus Material file icons. Dialogs and notifications follow your theme too.
 
 <table>
   <tr>
