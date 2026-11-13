@@ -77,7 +77,7 @@ Get-FileHash .\BrasaCodeSetup-x64-0.0.7.exe -Algorithm SHA256
 | ⚡ **Saves you hours** | Auto save, fix & format on save, organized imports, paired tag renaming and spell checking, ready out of the box. |
 | 🏠 **Feels at home** | Import your settings, shortcuts, snippets and extensions from VS Code or Cursor in one click. |
 | 🧩 **Huge extension library** | Thousands of free extensions from [Open VSX](https://open-vsx.org). |
-| 🌍 **English & Spanish** | The whole interface is available in both languages. |
+| 🌍 **8 languages** | The whole interface in English, Español, Français, Deutsch, Português (Brasil), 简体中文, 日本語 and Русский. |
 
 ## How it compares
 
@@ -150,7 +150,7 @@ Nine Brasa themes (Dark, Light, Ash, Midnight, Coal, Forest, Plum, Sand and Mist
 | Fix & format on save | Runs your formatter, applies safe lint fixes and organizes imports. |
 | Rename paired tags | Editing `<div>` also updates `</div>`. |
 | Update imports on move | Moving or renaming a file updates every import. |
-| Spell checker | Catches typos in code, comments and Markdown, in English and Spanish. |
+| Spell checker | Catches typos in code, comments and Markdown, in English and in your language. |
 | Sticky scroll | The current function and class stay visible while you scroll. |
 | Smart language support | Open an `.astro`, `.vue`, `.svelte`, `.mdx`, `.toml` or `.prisma` file and Brasa offers the right free extension in one click. |
 

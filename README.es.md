@@ -77,7 +77,7 @@ Get-FileHash .\BrasaCodeSetup-x64-0.0.7.exe -Algorithm SHA256
 | ⚡ **Te ahorra horas** | Guardado automático, arreglos y formato al guardar, imports ordenados, renombrado de etiquetas pareadas y corrector ortográfico, listos desde el principio. |
 | 🏠 **Como en casa** | Importa tus ajustes, atajos, snippets y extensiones de VS Code o Cursor en un clic. |
 | 🧩 **Miles de extensiones** | Miles de extensiones gratis de [Open VSX](https://open-vsx.org). |
-| 🌍 **Español e inglés** | Toda la interfaz está en los dos idiomas. |
+| 🌍 **8 idiomas** | Toda la interfaz en Español, English, Français, Deutsch, Português (Brasil), 简体中文, 日本語 y Русский. |
 
 ## Comparación
 
@@ -150,7 +150,7 @@ Nueve temas de Brasa (Oscuro, Claro, Ceniza, Medianoche, Carbón, Bosque, Ciruel
 | Arreglar y formatear al guardar | Pasa tu formateador, aplica arreglos seguros del linter y ordena los imports. |
 | Renombrar etiquetas pareadas | Al editar `<div>` también cambia `</div>`. |
 | Actualizar imports al mover | Al mover o renombrar un archivo se actualizan todos los imports. |
-| Corrector ortográfico | Detecta faltas en código, comentarios y Markdown, en español e inglés. |
+| Corrector ortográfico | Detecta faltas en código, comentarios y Markdown, en inglés y en tu idioma. |
 | Desplazamiento fijo | La función y la clase actuales siguen visibles mientras te desplazas. |
 | Soporte de lenguajes inteligente | Abre un archivo `.astro`, `.vue`, `.svelte`, `.mdx`, `.toml` o `.prisma` y Brasa te ofrece la extensión gratis adecuada en un clic. |
 
